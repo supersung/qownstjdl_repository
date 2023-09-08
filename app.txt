@@ -1,0 +1,6 @@
+aaaaaaaaa
+bbbbbbbb
+# print(aaaaaaaaa)
+print(aaaaaaaaa)
+a = "hello"
+print(a)
